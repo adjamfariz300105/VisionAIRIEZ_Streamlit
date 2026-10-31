@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+.streamlit/
+data/history.json
+*.pyc

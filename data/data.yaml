@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['BENIGNA', 'MALIGNA']
+
+roboflow:
+  workspace: fariz-fariz-hsweh
+  project: fariz3
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/fariz-fariz-hsweh/fariz3/1

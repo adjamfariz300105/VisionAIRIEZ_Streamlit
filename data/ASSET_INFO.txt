@@ -1,0 +1,1 @@
+Aset proyek berasal dari unggahan pengguna. Model: model/best.pt. Dataset: FARIZ3.v1i.yolov8.zip. Konfigurasi: data.yaml.
